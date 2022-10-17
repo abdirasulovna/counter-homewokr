@@ -1,0 +1,11 @@
+.counter {
+  text-align: center;
+  font-size: 55px;
+}
+.count button {
+  background-color: rgb(204, 238, 238);
+  width: 250px;
+  height: 65px;
+  font-size: 25px;
+  border-radius: 105px;
+}
